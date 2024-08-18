@@ -15,3 +15,4 @@ print(height)
 """
 In python data types are catagorised as  Numeric Type, Sequencial type ,
 Boolean tTpe ,Sets & Mapping Type(Dictonary)
+"""
